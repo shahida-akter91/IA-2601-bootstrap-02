@@ -1,0 +1,29 @@
+css
+/* ১. মূল শিরোনামের স্টাইল */
+#experience h2{
+font-family: var(--second-family);
+font-weight: 700;
+font-size: 50px;
+margin-bottom: 50px;
+color: #353535;
+}
+#experience h4{
+font-family: var(--font-family);
+font-weight: 600;
+font-size: 24px;
+line-height: 180%;
+color: #353535;
+ margin-bottom: 18px !important;
+}
+#experience p{
+font-family: var(--font-family);
+font-weight: 500;
+font-size: 18px;
+line-height: 180%;
+color: #7a7a7a;
+}
+#experience img {
+    max-height: 365px;
+    width: auto;
+}
+/* শিরোনামটিকে মাঝখানে আনবে */
